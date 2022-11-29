@@ -38,6 +38,3 @@ def ValidaUser(email):
     return chave
 
 
-a = ValidaUser('pinheiro012345@gmail.com')
-
-print(a)
