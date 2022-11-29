@@ -1,0 +1,58 @@
+# FUNCIONALIDADE
+
+criar usuario
+
+validar o mesmo por email
+	email:	atendimento@assesi.com
+	key:	yplqyqrmkvhzpfnp
+
+marcar ponto/ pegar informações de data e hora/ ip da maquina ou nome do pc
+
+salvar informações numa tabela no banco de dados 
+
+se ja tiver login pular tela inicial 
+
+*auto execute 7:59/11.59/13.59/17.59
+
+borão de marcar o ponto e salvar informação
+
+criar um arquivo  secrets em uma pasta do windowns para salvar credenciais
+
+# DB
+
+SETOR / EMAIL / SENHA / nome / data / hora / informação do pc / ADMIN
+
+# CONSULTAS
+
+DATA E HORA DE ACORDO COM O EMAIL LOGADO
+
+HORAS SEMANAIS / MENSAIS / 60 / 90 / 120 DIAS
+
+DIAS TRABALHADOS POR MES
+
+FALTAS OU AUSENCIAS DE PONTOS MARCADOS 
+
+PRESENÇAS POR SETOR 
+
+# INTERFACE
+
+@SELEÇÃO DE SETOR 
+
+	*GREEN
+	
+	*BLACK
+	
+	
+
+@LOGIN
+	EMAIL:
+	SENHA:
+
+	*SALVAR DADOS?
+
+@TELA INTERNA
+
+	REGISTRAR PRESENÇA
+		
+
+
